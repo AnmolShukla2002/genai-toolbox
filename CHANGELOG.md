@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.11.0](https://github.com/googleapis/genai-toolbox/compare/v0.10.0...v0.11.0) (2025-07-31)
+
+
+### Features
+
+* Add homebrew installation support for toolbox ([#936](https://github.com/googleapis/genai-toolbox/issues/936)) ([8ff60ca](https://github.com/googleapis/genai-toolbox/commit/8ff60ca430485676d5a259532da1d3e08c94cd0a))
+* New tool - looker-query-url ([#1015](https://github.com/googleapis/genai-toolbox/issues/1015)) ([327ddf0](https://github.com/googleapis/genai-toolbox/commit/327ddf0439058aa5ecd2c7ae8251fcde6aeff18c))
+* **sources/duckdb:** Add source and tool for DuckDB ([fd14933](https://github.com/googleapis/genai-toolbox/commit/fd149337e9fa8e912e8699962a7104d51cdffc5d))
+
+
+### Bug Fixes
+
+* Template paramaters link in `bigquery-sql` tool ([#1032](https://github.com/googleapis/genai-toolbox/issues/1032)) ([5bdab8c](https://github.com/googleapis/genai-toolbox/commit/5bdab8c83b8196d57d09ed47c7b8c1c5efc92819))
+
 ## [0.10.0](https://github.com/googleapis/genai-toolbox/compare/v0.9.0...v0.10.0) (2025-07-25)
 
 
